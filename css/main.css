@@ -33,13 +33,13 @@ h1, h2, h3, h4, h5, .figure {
   text-align: center;
 }
 
-.header_logo {
+.header-logo {
   padding-top: 5%;
   max-width: 26%;
   text-align: center;
 }
 
-.header_text {
+.header-text {
   box-sizing: content-box;
   padding-top: 3%;
 }
@@ -50,28 +50,26 @@ h1, h2, h3, h4, h5, .figure {
   max-width: 100%;
 }
 
-.main_container {
+.main-container {
   box-sizing: content-box;
   max-width: 100%;
   text-align: center;
 }
 
-/* Active state for segment controls panel */
-
-.content_image_1 {
+.content-image-1 {
   width: 68%;
 }
 
-.content_image_2 {
+.content-image-2 {
   display: none;
 }
 
-.section_title {
+.section-title {
   padding-top: 2em;
   text-align: center;
 }
 
-.sub_main {
+.sub-main {
   box-sizing: content-box;
   max-width: 100%;
   display: flex;
@@ -79,13 +77,13 @@ h1, h2, h3, h4, h5, .figure {
   flex-wrap: wrap;
 }
 
-.sub_container {
+.sub-container {
   box-sizing: content-box;
   padding: 5%;
   width: 45%;
 }
 
-.sub_image {
+.sub-image {
   max-width: 100%
 }
 
@@ -110,13 +108,13 @@ h1, h2, h3, h4, h5, .figure {
   justify-content: center;
 }
 
-.footer_container {
+.footer-container {
   display: inline-block;
   box-sizing: content-box;
   max-width: 33%;
 }
 
-.footer_img_link {
+.footer-img-link {
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 10%;
